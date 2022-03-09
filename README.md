@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, there, I'm Sadam</h1>
-<p>I'm a Software Engineer based in <strong>Bali, Indonesia</strong> 🏝️ 🇮🇩 . I'm currently working on some freelance project.</p>
+<p>I'm a Software Engineer based in <strong>Bali, Indonesia</strong> 🏝️ 🇮🇩 . I'm currently working on some freelance projects.</p>
 
 ### 📫 How to reach me:
 <a href="mailto:sadam9@outlook.co.id">
