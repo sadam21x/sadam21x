@@ -1,14 +1,18 @@
-👋 Hi, there! My name is Sadan
-======================
+👋 Hi, there! I'm Sadam, welcome to my GitHub Profile
+=====================================================
 
 Software Engineer
 -----------------
 
-I specialize in web development with 2+ years of experience in handling small to medium-scale web application projects. Coding is something I love the most because we can build something that can give an impact on a lot of people with it. Let's build something cool 🚀
+I specialize in web development with 2+ years of experience in handling small to medium-scale web application projects. Coding is something I love the most because we can build something that can give an impact on a lot of people with it.
+<br><br>
+Let's build something cool 🚀
 
 * 🌍  I'm based in Bali, Indonesia
 * 🖥️  See my portfolio at [sadam.dev](http://sadam.dev)
 * 🤝  I'm open to collaborating on Freelance Projects
+
+<br>
 
 ### Skills
 
