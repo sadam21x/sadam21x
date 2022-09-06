@@ -46,12 +46,12 @@ I specialize in web development with 2+ years of experience in handling small to
 <!--START_SECTION:waka-->
 
 ```text
-Go           14 hrs 21 mins  ████████████████████████░   95.70 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Batchfile    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Astro        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Go           12 hrs 30 mins  ████████████████████████▒   96.86 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Batchfile    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Astro        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
