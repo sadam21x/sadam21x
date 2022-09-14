@@ -46,11 +46,11 @@ I specialize in web development with 2+ years of experience in handling small to
 <!--START_SECTION:waka-->
 
 ```text
-Go           18 hrs 51 mins  ███████████████████▓░░░░░   78.79 %
-TypeScript   4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-SCSS         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Go           15 hrs 50 mins  ████████████████▒░░░░░░░░   65.09 %
+TypeScript   7 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.08 %
+SCSS         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
