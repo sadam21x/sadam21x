@@ -1,16 +1,16 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Sadam
 =============================================================================================================================
 
-Software Engineer
+Web Developer
 -----------------
 
-I specialize in web development with 2+ years of experience in handling small to medium-scale web application projects. I am always interested in learning new tech to build something cool and awesome.
+A guy who does full-stack development with 2+ years of experience in handling small to medium-scale web application projects. Has been working with various tech and frameworks. Always curious about any tech to build something incredible.
 
-* 🌍  I'm based in Bali, Indonesia
+* 🌍  Bali, Indonesia
 * 🖥️  See my portfolio at [https://sadam.dev](http://sadam.dev)
 * ✉️  You can contact me at [sadam21x@gmail.com](mailto:sadam21x@gmail.com)
-* 🤝  I'm open to collaborating on freelance web/app projects
-* 🎮  I love to play online games in my free time
+* 🤝  I'm open to collaborating on freelance projects
+* ☕  I love coffee so much. . .
 
 <br>
 
