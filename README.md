@@ -1,17 +1,24 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Sadam
-=============================================================================================================================
+# Hey, I'm Sadam! 👋
 
-Web Developer
------------------
+I'm a passionate software engineer with 3 years of experience, specializing in web development. Based in the beautiful island of Bali 🏝️
 
-A guy who does full-stack development with 2+ years of experience in handling small to medium-scale web application projects. Has been working with various tech and frameworks. Always curious about any tech to build something incredible.
+## 🚀 Expertise
 
-* 🌍  Bali, Indonesia
-* 🖥️  See my portfolio at [https://sadam.dev](http://sadam.dev)
-* ✉️  You can contact me at [sadam21x@gmail.com](mailto:sadam21x@gmail.com)
-* 🤝  I'm open to collaborating on freelance projects
-* ☕  I love coffee so much. . .
+I've dabbled in a diverse range of web projects, from sleek company profiles to intricate web apps, always striving for that pixel-perfect UI/UX.
 
-<br>
+## 🌍 Open to Remote Opportunities
 
-<a href="http://www.github.com/sadam21x"><img src="https://github-readme-stats.vercel.app/api?username=sadam21x&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sadam21x's GitHub stats" /></a>
+Whether it's a full-time gig or a freelance project, I'm all ears for exciting remote work. Let's build something awesome together!
+
+## 📬 Get in Touch
+
+📧 Email: [sadam21x@gmail.com](mailto:sadam21x@gmail.com)  
+👔 LinkedIn: [sadam21x](https://www.linkedin.com/in/sadam21x)
+
+## 🚀 Let's Connect!
+
+Let's turn ideas into reality, one line of code at a time! 🚀
+
+---
+
+*Explore my projects below and feel free to reach out if you have any exciting collaborations in mind!* 😊
