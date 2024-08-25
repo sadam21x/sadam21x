@@ -1,5 +1,7 @@
 # Hey, I'm Sadam! 👋
 
-Experienced software engineer specializing in full-stack web development, adept at driving end-to-end project lifecycles. Passionate about creating user-centric solutions, I blend technical expertise with creative problem-solving to craft efficient, scalable applications. Thriving in collaborative environments, I continually seek new challenges to innovate and deliver impactful digital experiences.
+I specialize in full-stack web development, I can help you with your next project. From the initial idea to the final product. Whether it's a simple company profile or a complex web application with tons of features and daily users.
+
+🌐 [https://sadam.dev](https://sadam.dev)
 
 🤝 Open for collaboration
