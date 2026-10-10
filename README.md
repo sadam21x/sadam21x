@@ -1,7 +1,3 @@
-<a align="center" href="https://komarev.com/ghpvc/?username=sadam21x">
-    <img src="https://komarev.com/ghpvc/?username=sadam21x&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 # Hi, I'm Sadam! 👋
 
 <p align="center" style="display: flex; justify-content: center; gap: 5px;">
